@@ -98,3 +98,15 @@ npm run build
 7. Configure tax, discount, and shipping (optional)
 8. Preview the document in real-time
 9. Download the PDF when satisfied
+
+## Running the Project (with Dependency Conflicts)
+
+If you see errors during `npm install`, use:
+
+    npm install --legacy-peer-deps
+
+Then run:
+
+    npm run dev
+
+This will bypass peer dependency issues and allow the project to start.

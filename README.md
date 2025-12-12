@@ -11,4 +11,13 @@ Checkout the website on: [invoice.flightdev.co](https://invoice.flightdev.co)
 Our Website: [flightdev.co](https://flightdev.co)
 
 Our Discord: [discord.gg/flightdev](https://discord.gg/flightdev)
-.
+
+# Additional Setup Instructions
+
+If you encounter dependency conflicts during `npm install`, run:
+
+    npm install --legacy-peer-deps
+
+This will resolve most peer dependency issues. Then start the development server as usual:
+
+    npm run dev

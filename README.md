@@ -21,3 +21,8 @@ If you encounter dependency conflicts during `npm install`, run:
 This will resolve most peer dependency issues. Then start the development server as usual:
 
     npm run dev
+
+---
+
+> "I'm no hero. Never was. Never will be."
+> — Solid Snake

@@ -26,3 +26,5 @@ This will resolve most peer dependency issues. Then start the development server
 
 > "I'm no hero. Never was. Never will be."
 > — Solid Snake
+
+---
